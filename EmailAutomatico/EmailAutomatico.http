@@ -1,0 +1,6 @@
+@EmailAutomatico_HostAddress = http://localhost:5217
+
+GET {{EmailAutomatico_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
